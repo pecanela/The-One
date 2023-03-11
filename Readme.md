@@ -5,3 +5,5 @@ O objetivo deste projeto é explicar como usar o GIT.
 Esperamos começar nessa nova área de aprendizado.
 
 Segunda alteração
+
+Terceira alteração
